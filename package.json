@@ -1,0 +1,25 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "build basic chat app using socket.io and expressJS",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinmaskalle/websocket-io.git"
+  },
+  "author": "Sachin Suryakanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sachinmaskalle/websocket-io/issues"
+  },
+  "homepage": "https://github.com/sachinmaskalle/websocket-io#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
